@@ -92,9 +92,13 @@ nav .donateButton button:hover {
     background-position: center;
     display: flex;
     align-items: center;
-    height: 70vh;
+    height: 80vh;
     text-align: center;
 }
+
+  .herotext {
+        margin-top: 130px;
+    }
 
 .herotext p:first-child {
     color: var(--text-col);
@@ -197,7 +201,7 @@ nav .donateButton button:hover {
     }
 
     .homesection {
-        height: 70vh;
+        height: 90vh;
     }
 
     nav .logo h1 {
@@ -206,7 +210,7 @@ nav .donateButton button:hover {
 
 
     .herotext {
-        margin-top: 100px;
+        margin-top: 130px;
     }
 
     .herotext p:first-child {
@@ -856,4 +860,5 @@ footer .footerBottom {
         align-items: start;
     }
     
+
 }
